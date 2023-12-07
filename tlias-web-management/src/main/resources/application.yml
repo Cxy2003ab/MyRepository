@@ -16,10 +16,10 @@ mybatis:
 
 aliyun:
   oss:
-    endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5t9ZiDzoSyopTvGzix5g
-    accessKeySecret: 8pbbJY7dwDKAUsiOTnmD84iWVHyCT6
-    bucketName: web-framework-www
+    endpoint: 00000000000000000000000
+    accessKeyId: 00000000000000000
+    accessKeySecret: 00000000000000000
+    bucketName: 0000000000000000
 #spring事务管理日志
 logging:
   level:
