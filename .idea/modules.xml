@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aop-quickstart/aop-quickstart.iml" filepath="$PROJECT_DIR$/aop-quickstart/aop-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-project01/maven-project01.iml" filepath="$PROJECT_DIR$/maven-project01/maven-project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project1/maven_project1.iml" filepath="$PROJECT_DIR$/maven_project1/maven_project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project2/maven_project2.iml" filepath="$PROJECT_DIR$/maven_project2/maven_project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" filepath="$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" filepath="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-req-resp/springboot-web-req-resp.iml" filepath="$PROJECT_DIR$/springboot-web-req-resp/springboot-web-req-resp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" filepath="$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fe9d4d3-4eb8-4f00-8cbe-0bf85ab2b446" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MYSQL@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MYSQL@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MYSQL@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tlias: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ProgramFiles\apache-maven-3.6.1\mvn_rep" />
+        <option name="mavenHome" value="D:/ProgramFiles/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\ProgramFiles\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YL2KjL5aXzkOrWLcPDtqb9CSU2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tlias-web-management/src/main/java/com/itheima/mapper" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.22792363" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\总资料\JavaSpringboot\springboot-web-req-resp\src\main\java\com\example\springbootwebreqresp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.aop" />
+      <recent name="com.example.demo.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\totalData\JavaSpringboot\tlias-web-management\src\main\java\com\itheima\mapper" />
+      <recent name="D:\totalData\JavaSpringboot\tlias-web-management\src\main\java\com\itheima\pojo" />
+      <recent name="D:\totalData\JavaSpringboot\aop-quickstart\src\main\resources" />
+      <recent name="D:\totalData\JavaSpringboot" />
+      <recent name="D:\totalData\JavaSpringboot\tlias-web-management\src\main\java\com\itheima\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TliasWebManagementApplication">
+    <configuration name="AopQuickstartApplicationTests.testAopDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop-quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.AopQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testAopDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopQuickstartApplicationTests.testAopList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop-quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.AopQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testAopList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopQuickstartApplicationTests.testGetById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aop-quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.AopQuickstartApplicationTests" />
+      <option name="METHOD_NAME" value="testGetById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testSelectIf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testSelectIf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopQuickstartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aop-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.AopQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aop-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.aopquickstart.AopQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis-crud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootMybatisCrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-mybatis-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ithema.SpringbootMybatisQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebReqRespApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-web-req-resp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootwebreqresp.SpringbootWebReqRespApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.TliasWebManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AopQuickstartApplicationTests.testAopDelete" />
+        <item itemvalue="JUnit.AopQuickstartApplicationTests.testGetById" />
+        <item itemvalue="JUnit.AopQuickstartApplicationTests.testAopList" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testSelectIf" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.28278688" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fe9d4d3-4eb8-4f00-8cbe-0bf85ab2b446" name="Default Changelist" comment="" />
+      <created>1700290476656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700290476656</updated>
+      <workItem from="1700290477936" duration="276000" />
+      <workItem from="1700290759487" duration="149000" />
+      <workItem from="1700290950464" duration="1488000" />
+      <workItem from="1700292470419" duration="2047000" />
+      <workItem from="1700310264334" duration="33000" />
+      <workItem from="1700310308317" duration="3564000" />
+      <workItem from="1700313945132" duration="202000" />
+      <workItem from="1700314159945" duration="194000" />
+      <workItem from="1700314365978" duration="437000" />
+      <workItem from="1700360155416" duration="849000" />
+      <workItem from="1700361021405" duration="442000" />
+      <workItem from="1700361477936" duration="402000" />
+      <workItem from="1700361892846" duration="4607000" />
+      <workItem from="1700481373752" duration="1517000" />
+      <workItem from="1700482919154" duration="257000" />
+      <workItem from="1700483197756" duration="4637000" />
+      <workItem from="1700546856882" duration="9174000" />
+      <workItem from="1700567654404" duration="5966000" />
+      <workItem from="1700635965890" duration="8000" />
+      <workItem from="1700636086977" duration="13700000" />
+      <workItem from="1700718721592" duration="6559000" />
+      <workItem from="1700727574759" duration="1159000" />
+      <workItem from="1700734330848" duration="78000" />
+      <workItem from="1700738101322" duration="3128000" />
+      <workItem from="1700741264417" duration="3556000" />
+      <workItem from="1700744875947" duration="800000" />
+      <workItem from="1700805931911" duration="3756000" />
+      <workItem from="1700809727600" duration="2389000" />
+      <workItem from="1700813433195" duration="2107000" />
+      <workItem from="1700825262902" duration="3177000" />
+      <workItem from="1700828508303" duration="4604000" />
+      <workItem from="1700894064452" duration="9438000" />
+      <workItem from="1700963268562" duration="16097000" />
+      <workItem from="1700990197360" duration="609000" />
+      <workItem from="1701081506641" duration="6118000" />
+      <workItem from="1701169079817" duration="7130000" />
+      <workItem from="1701180165244" duration="371000" />
+      <workItem from="1701227038353" duration="196000" />
+      <workItem from="1701227251015" duration="112000" />
+      <workItem from="1701259885742" duration="2608000" />
+      <workItem from="1701602499782" duration="2852000" />
+      <workItem from="1701605503904" duration="4514000" />
+      <workItem from="1701689707986" duration="7599000" />
+      <workItem from="1701780683139" duration="3091000" />
+      <workItem from="1701823550619" duration="2859000" />
+      <workItem from="1701866060827" duration="1912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Inspections" timestamp="1700894601427">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1700894601427" />
+    <state x="361" y="94" width="814" height="723" key="#Intentions" timestamp="1700727117836">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" width="814" height="723" key="#Intentions/0.0.1536.864@0.0.1536.864" timestamp="1700727117836" />
+    <state x="361" y="94" key="#Notifications" timestamp="1700360705090">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1700360705090" />
+    <state x="361" y="94" key="#Project_Structure" timestamp="1700290733918">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1700290733918" />
+    <state x="499" y="190" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1700568694626">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="190" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.864@0.0.1536.864" timestamp="1700568694626" />
+    <state x="361" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1700745161167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1700745161167" />
+    <state x="478" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1700553330489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1700553330489" />
+    <state x="574" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1701603836268">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1701603836268" />
+    <state x="620" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1700310980140">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1700310980140" />
+    <state x="514" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1700814392129">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="514" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1700814392129" />
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1700565954528">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1700565954528" />
+    <state x="448" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1701085726576">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="448" y="299" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1701085726576" />
+    <state width="242" height="189" key="DatabaseViewActions_Filter" timestamp="1700738147623">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="242" height="189" key="DatabaseViewActions_Filter/0.0.1536.864@0.0.1536.864" timestamp="1700738147623" />
+    <state x="335" y="41" key="FileChooserDialogImpl" timestamp="1700828634087">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="335" y="41" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1700828634087" />
+    <state width="1049" height="187" key="GridCell.Tab.0.bottom" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="1049" height="187" key="GridCell.Tab.0.center" timestamp="1701832632353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1701832632353" />
+    <state width="1049" height="187" key="GridCell.Tab.0.left" timestamp="1701832632353">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1701832632353" />
+    <state width="1049" height="187" key="GridCell.Tab.0.right" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="1049" height="187" key="GridCell.Tab.1.bottom" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="1049" height="187" key="GridCell.Tab.1.center" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="1049" height="187" key="GridCell.Tab.1.left" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="1049" height="187" key="GridCell.Tab.1.right" timestamp="1701832632361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1049" height="187" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1701832632361" />
+    <state width="549" height="214" key="GridCell.Tab.2.bottom" timestamp="1700550897877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="549" height="214" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1700550897877" />
+    <state width="549" height="214" key="GridCell.Tab.2.center" timestamp="1700550897877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="549" height="214" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1700550897877" />
+    <state width="549" height="214" key="GridCell.Tab.2.left" timestamp="1700550897877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="549" height="214" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1700550897877" />
+    <state width="549" height="214" key="GridCell.Tab.2.right" timestamp="1700550897877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="549" height="214" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1700550897877" />
+    <state width="278" height="477" key="HiddenNamespacesPopup" timestamp="1700637490048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="278" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1700637490048" />
+    <state x="598" y="272" width="938" height="592" key="Maven.ArtifactSearchDialog" timestamp="1700657755430">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="598" y="272" width="938" height="592" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1700657755430" />
+    <state x="272" y="77" key="SettingsEditor" timestamp="1701866430382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1701866430382" />
+    <state x="663" y="322" width="333" height="227" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1700638227461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="663" y="322" width="333" height="227" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1700638227461" />
+    <state x="8" y="126" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1700644267551">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="8" y="126" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1700644267551" />
+    <state x="641" y="176" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1700814657776">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="641" y="176" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.864@0.0.1536.864" timestamp="1700814657776" />
+    <state x="103" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1701866061209">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="103" y="320" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1701866061209" />
+    <state x="281" y="91" width="1180" height="583" key="new project wizard" timestamp="1701606039430">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="281" y="91" width="1180" height="583" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1701606039430" />
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup" timestamp="1700828871992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1700828871992" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1701694128539">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1701694128539" />
+  </component>
+</project>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--要双向绑定-->
+<mapper namespace="com.example.Mapper.EmpMapper">
+    <sql id="commonSelect">
+        select id, username, password, name, gender, image, job, entrydate, dept_id, create_time, update_time from mybatis.emp
+    </sql>
+
+    <update id="update2">
+        update mybatis.emp
+        <set>
+            <if test="username != null">
+                username=#{username},
+            </if>
+            <if test="name != null">
+                name=#{name},
+            </if>
+            <if test="gender != null">
+                gender=#{gender},
+            </if>
+            <if test="image != null">
+                image=#{image},
+            </if>
+            <if test="job != null">
+                job=#{job},
+            </if>
+            <if test="entrydate != null">
+                entrydate=#{entrydate},
+            </if>
+            <if test="deptId != null">
+                dept_id=#{deptId},
+            </if>
+            <if test="updateTime != null">
+                update_time=#{updateTime}
+            </if>
+        </set>
+        where id=#{id}
+    </update>
+    <!--条件查询语句-->
+    <!--
+    * 条件查询员工信息
+    * - 姓名：要求支持模糊匹配like '%张%'
+    * - 性别：要求精确匹配
+    * - 入职时间：要求进行范围查询
+    * - 根据最后修改时间进行降序排序
+    *-->
+    <!--<select id="list" resultType="com.example.Pojo.Emp">
+        select * from mybatis.emp where name like concat('%',#{name},'%')
+        and gender = #{gender}
+        and entrydate between #{begin} and #{end}
+        order by update_time desc
+    </select>-->
+    <!--动态SQL-->
+    <!--    <if test=""></if> <where></where>-->
+    <select id="list" resultType="com.example.Pojo.Emp">
+        <include refid="commonSelect"/>
+        <where>
+            <if test="name != null">
+                name like concat('%',
+                #{name},
+                '%'
+                )
+            </if>
+            <if test="gender != null">
+                and gender =
+                #{gender}
+            </if>
+            <if test="begin != null and end != null">
+                and entrydate between
+                #{begin}
+                and
+                #{end}
+            </if>
+        </where>
+        order by update_time desc
+    </select>
+</mapper>

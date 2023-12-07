@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-mybatis-quickstart" />
+        <module name="springboot-aop-quickstart" />
+        <module name="springboot-web-req-resp" />
+        <module name="maven_project2" />
+        <module name="springboot-mybatis-crud" />
+        <module name="maven-project01" />
+        <module name="tlias-web-management" />
+        <module name="aop-quickstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aop-quickstart" target="11" />
+      <module name="demo" target="8" />
+      <module name="maven-project01" target="11" />
+      <module name="maven_project2" target="1.5" />
+      <module name="springboot-aop-quickstart" target="1.5" />
+      <module name="springboot-mybatis-crud" target="11" />
+      <module name="springboot-mybatis-quickstart" target="1.8" />
+      <module name="springboot-web-req-resp" target="8" />
+      <module name="tlias-web-management" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aop-quickstart" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="springboot-aop-quickstart" options="-parameters" />
+      <module name="springboot-mybatis-crud" options="-parameters" />
+      <module name="springboot-mybatis-quickstart" options="-parameters" />
+      <module name="springboot-web-req-resp" options="-parameters" />
+      <module name="tlias-web-management" options="-parameters" />
+    </option>
+  </component>
+</project>
