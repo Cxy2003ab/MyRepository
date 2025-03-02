@@ -69,6 +69,13 @@ git commit -m "描述提交的名称"
 ```
 git push -u origin master 
 //这里的master是本机仓库默认分支名称，执行完这条指令后，github上如果在你创建的仓库名下会去找有没有叫master的，没有的话会自动创建master分支，目的是本机分支名和远程分支名称一致
+添加新的远程仓库
+git remote add origin https://github.com/Cxy2003ab/MyRepository.git
+
+然后本地仓库要和远程仓库的名称要一致，不然提交不了（比如远程仓库名为main, 本地仓库是master,因此要修改本地仓库为main）
+这是修改本地仓库名的代码：
+git branch -m master main
+              (本地仓库名)（远程仓库名）
 ```
 
 执行好这些步骤项目就能提交到github上的自定义仓库了
